@@ -1,0 +1,65 @@
+# Estudos em Python
+
+Este repositório contém três programas simples desenvolvidos para praticar lógica de programação em Python.
+
+## Projetos
+
+### 1. Concatenador de Palavras
+Programa que recebe palavras do usuário e junta todas em uma única frase.
+
+Exemplo:
+
+Entrada:
+Olá  
+mundo  
+
+Saída:
+Olá mundo
+
+---
+
+### 2. Repetidor de Palavras
+Programa que repete uma palavra um número determinado de vezes.
+
+Exemplo:
+
+Entrada:
+Palavra: oi  
+Quantidade: 3  
+
+Saída:
+oi oi oi
+
+---
+
+### 3. Operador Matemático
+Programa que realiza operações matemáticas básicas como adição, subtração, multiplicação e divisão.
+
+Exemplo:
+
+Entrada:
+Número 1: 10  
+Número 2: 5  
+Operação: +  
+
+Saída:
+Resultado: 15
+
+---
+
+## Tecnologias utilizadas
+
+- Python
+
+---
+
+## Objetivo
+
+Este projeto foi criado com o objetivo de praticar:
+
+- Entrada e saída de dados
+- Manipulação de strings
+- Estruturas condicionais
+- Operações matemáticas básicas
+
+---
